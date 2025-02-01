@@ -15,6 +15,6 @@
 If you use these maps in your reporting, please include the following citation:
 Source: Damage analysis by Dr. He Yin of Kent State University, based on the method published by Yin et al., (DOI: [10.1016/j.srs.2025.100199](https://doi.org/10.1016/j.srs.2025.100199))
 
-**Yin, H. et al., (in press) Evaluating war-induced damage to agricultural land in the Gaza Strip since October 2023 using PlanetScope and SkySat imagery. Science of Remote Sensing. DOI: [10.1016/j.srs.2025.100199]**
+**Yin, H. et al., (in press) Evaluating war-induced damage to agricultural land in the Gaza Strip since October 2023 using PlanetScope and SkySat imagery. Science of Remote Sensing. DOI: DOI: [10.1016/j.srs.2025.100199](https://doi.org/10.1016/j.srs.2025.100199)**
 
 Please email a PDF and links to any published versions of these maps. If you can share a non-paywalled/gift version of the link, that would be much appreciated.
