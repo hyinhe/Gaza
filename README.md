@@ -1,5 +1,5 @@
  
-Author: Dr. He Yin, Assistant Professor, Department of Geography, Kent State University
+*Author: *Dr. He Yin, Assistant Professor, Department of Geography, Kent State University
 
 Contact: hyin3@kent.edu (https://www.kent.edu/node/he-yin)
 
