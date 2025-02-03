@@ -3,7 +3,7 @@
 
 **Contact:** hyin3@kent.edu (https://www.kent.edu/node/he-yin)
 
-**Goal:** Assess the impacts of the war on agricultural lands in Gaza since the breakout of the 2023 Israel-Hamas War. We focus on two agricultural land uses: tree crops and greenhouses. **The most recent estimates in this analysis extend through the Jan 21st, 2025**.
+**Goal:** Assess the impacts of the war on agricultural lands in Gaza since the breakout of the 2023 Israel-Hamas War. We focus on two agricultural land uses: tree crops and greenhouses. **The most recent estimates included in this analysis extend through January 21, 2025.**
 
 **Satellite images:** 3-m PlanetScope and 50-cm SkySat imagery © Planet Labs PBC obtained in 2023 and 2025
 
