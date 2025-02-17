@@ -9,7 +9,7 @@
 
 **Definitions:** Tree crops: olives, orchards, etc. Greenhouses: any crops that are covered in a structure with walls and a roof made principally of transparent material.
 
-**Approaches:** Because tree crops and greenhouses are very different in their physical properties, I mapped their damages separately using different remote sensing algorithms. The methods of this work will be published in the journal Science of Remote Sensing (Yin et al., in press).
+**Approaches:** Because tree crops and greenhouses are very different in their physical properties, I mapped their damages separately using different remote sensing algorithms. The methods of this work will be published in the journal Science of Remote Sensing (Yin et al., 2025).
 
 **Citation, attribution, use, and distribution:**
 If you use these maps in your reporting, please include the following citation:
