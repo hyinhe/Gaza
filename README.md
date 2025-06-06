@@ -5,7 +5,7 @@
 
 <code style="color : name_color">**UPDATE (May 2025):**</code> We have expanded our damage assessment to include four categories: annual crops, tree crops, woody vegetation, and fallow/grassland. Please refer to the PDF file New_assessment_until_Jan_2025.pdf for further details.
 
-**Goal:** Assess the impacts of the war on agricultural lands in Gaza since the breakout of the 2023 Israel-Hamas War. We focus on two agricultural land uses: tree crops and greenhouses. **The most recent estimates included in this analysis extend through January 21, 2025.**
+**Goal:** Assess the impacts of the war on agricultural lands in Gaza since the breakout of the 2023 Israel-Hamas War. We focus on two agricultural land uses: tree crops and greenhouses.
 
 **Satellite images:** 3-m PlanetScope and 50-cm SkySat imagery © Planet Labs PBC obtained in 2023 and 2025
 
